@@ -30,4 +30,6 @@ class child(parent_a,parent_b):
 obj1 = child('me','mn','mf','mee','fh','fl','fl','boy')
 
 obj1.character()
-#This is a new comment
+
+
+'This is inheritance file'
